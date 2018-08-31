@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 0 - Brian Mickey
 
-The log of my #100DaysOfCode challenge. Started on [August 31, Friday, 2018].
+The log of my #100DaysOfCode challenge. Started over on [August 31, Friday, 2018].
 
 ## Log
 
