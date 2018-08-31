@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 0 - Brian Mickey
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [August 31, Friday, 2018].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R0D0 
+Missed days and haven't been keeping track, so I am counting from the beginning to start (and keep) my streak going. Worked on my personal site and github.
 
-### R1D2
+
