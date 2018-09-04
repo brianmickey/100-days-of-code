@@ -12,3 +12,7 @@ Watched FCC video on CSS Grid since I need to drill down on this and really mast
 
 ### R0D2
 Worked on redesigning personal website using CSS Grid and adding a sticky header. 
+
+### R0D3
+More work on personal site, trying to refine some things and work on responsiveness. Learned more about flexbox and grid, still working on my media queries.
+
