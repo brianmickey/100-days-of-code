@@ -16,3 +16,8 @@ Worked on redesigning personal website using CSS Grid and adding a sticky header
 ### R0D3
 More work on personal site, trying to refine some things and work on responsiveness. Learned more about flexbox and grid, still working on my media queries.
 
+### R0D4
+It's official. I spent a long time being frustrated and trying lots and lots of different things and researching, then found I was missing a }. But hey, it works now!
+
+
+
