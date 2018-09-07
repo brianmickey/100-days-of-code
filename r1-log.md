@@ -19,5 +19,6 @@ More work on personal site, trying to refine some things and work on responsiven
 ### R0D4
 It's official. I spent a long time being frustrated and trying lots and lots of different things and researching, then found I was missing a }. But hey, it works now!
 
-
+### R0D5, R0D6
+Spent a good few hours and learned a few things working on my website and getting it online. 
 
