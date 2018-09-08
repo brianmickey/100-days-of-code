@@ -22,3 +22,6 @@ It's official. I spent a long time being frustrated and trying lots and lots of 
 ### R0D5, R0D6
 Spent a good few hours and learned a few things working on my website and getting it online. 
 
+### R0D7
+Made my first commit to using git. Watching some videos and trying to learn some of the basics of using bash, and get in the habit/learn about us version control.
+
