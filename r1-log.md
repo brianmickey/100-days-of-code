@@ -25,3 +25,5 @@ Spent a good few hours and learned a few things working on my website and gettin
 ### R0D7
 Made my first commit to using git. Watching some videos and trying to learn some of the basics of using bash, and get in the habit/learn about using version control.
 
+### R0D8
+Worked on my FCC Survey page, and used Atom to commit changes to GithHub (which is super easy). I think I will need to make some flash cards or just notes to review to help cement how to do a lot of these particular things. Doing it once for a tutorial and then once for a project doesn't mean I will remember how to do it again (I won't).
