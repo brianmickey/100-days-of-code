@@ -30,3 +30,6 @@ Worked on my FCC Survey page, and used Atom to commit changes to GithHub (which 
 
 ### R0D9
 Worked on my FCC Survey page, started adding labels and ids. Need to better understand id, name, and label for fields with multiple options.
+
+### R0D10
+Went to a meetup for a "Javascript Crash Course" which wasn't what I expected it to be, but I still learned some things and met a few people. Came home and worked on my survey page for FCC, added/fixed my element labels.
