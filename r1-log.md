@@ -33,3 +33,6 @@ Worked on my FCC Survey page, started adding labels and ids. Need to better unde
 
 ### R0D10
 Went to a meetup for a "Javascript Crash Course" which wasn't what I expected it to be, but I still learned some things and met a few people. Came home and worked on my survey page for FCC, added/fixed my element labels.
+
+### R0D11
+Finished my FCC Survey Page, now on to the next project! It's not the prettiest or most functional, but it meets all the requirements and passes the tests. On to the next one.
