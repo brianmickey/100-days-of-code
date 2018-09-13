@@ -36,3 +36,6 @@ Went to a meetup for a "Javascript Crash Course" which wasn't what I expected it
 
 ### R0D11
 Finished my FCC Survey Page, now on to the next project! It's not the prettiest or most functional, but it meets all the requirements and passes the tests. On to the next one.
+
+### R0D12
+Started my FCC Product Landing Page, for some reason the tests are not seeing my flexbox or media queries. Maybe I will see what the problem is when I start back tomorrow.
