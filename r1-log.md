@@ -39,3 +39,6 @@ Finished my FCC Survey Page, now on to the next project! It's not the prettiest 
 
 ### R0D12
 Started my FCC Product Landing Page, for some reason the tests are not seeing my flexbox or media queries. Maybe I will see what the problem is when I start back tomorrow.
+
+### R0D13
+Started adding CSS Grid to product landing page, added video and header image. Feeling good about keeping the streak going and learning from these projects. 
