@@ -42,3 +42,6 @@ Started my FCC Product Landing Page, for some reason the tests are not seeing my
 
 ### R0D13
 Started adding CSS Grid to product landing page, added video and header image. Feeling good about keeping the streak going and learning from these projects. 
+
+### R0D14
+Landing Page passes tests in codepen, so that works. Whenever I try to fix my header when scrolling though, everything goes wacky. More to learn.
