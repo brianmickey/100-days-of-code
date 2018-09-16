@@ -45,3 +45,6 @@ Started adding CSS Grid to product landing page, added video and header image. F
 
 ### R0D14
 Landing Page passes tests in codepen, so that works. Whenever I try to fix my header when scrolling though, everything goes wacky. More to learn.
+
+### R0D15
+Fixed header/nav bar, now passing all tests. Need to finish adding content and polish before moving on.
