@@ -48,3 +48,6 @@ Landing Page passes tests in codepen, so that works. Whenever I try to fix my he
 
 ### R0D15
 Fixed header/nav bar, now passing all tests. Need to finish adding content and polish before moving on.
+
+### R0D16
+Finished Jocko Landing Page. Learned a couple more tricks. New project tomorrow.
