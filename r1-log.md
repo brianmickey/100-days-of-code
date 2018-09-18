@@ -51,3 +51,6 @@ Fixed header/nav bar, now passing all tests. Need to finish adding content and p
 
 ### R0D16
 Finished Jocko Landing Page. Learned a couple more tricks. New project tomorrow.
+
+### R0D17
+Started work on Technical Documentation Page, laying everything out based on the user stories and tests.
