@@ -54,3 +54,6 @@ Finished Jocko Landing Page. Learned a couple more tricks. New project tomorrow.
 
 ### R0D17
 Started work on Technical Documentation Page, laying everything out based on the user stories and tests.
+
+### R0D18
+Completed Technical Documentation Page. Each completed project is making this all a little easier. (Deliberate Practice?)
