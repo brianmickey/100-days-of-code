@@ -57,3 +57,7 @@ Started work on Technical Documentation Page, laying everything out based on the
 
 ### R0D18
 Completed Technical Documentation Page. Each completed project is making this all a little easier. (Deliberate Practice?)
+
+### R0D19
+Started work on the FCC Portfolio project, laying things out based on the user stories and tests. All tests passing, next will be filling out the real content and prettying it all up.
+
