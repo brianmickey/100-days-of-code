@@ -61,3 +61,6 @@ Completed Technical Documentation Page. Each completed project is making this al
 ### R0D19
 Started work on the FCC Portfolio project, laying things out based on the user stories and tests. All tests passing, next will be filling out the real content and prettying it all up.
 
+### R0D20
+Worked on Portfolio page, didn't get a lot done, hard to focus after a very busy day. Still checked the box and learned.
+
