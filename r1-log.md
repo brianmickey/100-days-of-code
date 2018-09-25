@@ -64,3 +64,6 @@ Started work on the FCC Portfolio project, laying things out based on the user s
 ### R0D20
 Worked on Portfolio page, didn't get a lot done, hard to focus after a very busy day. Still checked the box and learned.
 
+### R0D21
+Added CSS Grid layout to projects section, still more work to do, more to learn.
+
