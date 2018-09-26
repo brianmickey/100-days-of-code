@@ -67,3 +67,6 @@ Worked on Portfolio page, didn't get a lot done, hard to focus after a very busy
 ### R0D21
 Added CSS Grid layout to projects section, still more work to do, more to learn.
 
+### R0D22
+More portfolio work. Made thumbnails, updated some other project code between codepen/github/local.
+
