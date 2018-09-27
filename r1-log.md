@@ -70,3 +70,6 @@ Added CSS Grid layout to projects section, still more work to do, more to learn.
 ### R0D22
 More portfolio work. Made thumbnails, updated some other project code between codepen/github/local.
 
+### R0D23
+Formatted some things in my portfolio, improved my header with flexbox, made my header not cover up my internal links. Still much more to do and learn.
+
