@@ -73,3 +73,5 @@ More portfolio work. Made thumbnails, updated some other project code between co
 ### R0D23
 Formatted some things in my portfolio, improved my header with flexbox, made my header not cover up my internal links. Still much more to do and learn.
 
+### R0D23
+Resized thumbnail images, and added them into cards. Messed with CSS Grid which is still acting strange and skipping the first cell...
