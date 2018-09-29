@@ -75,3 +75,6 @@ Formatted some things in my portfolio, improved my header with flexbox, made my 
 
 ### R0D23
 Resized thumbnail images, and added them into cards. Messed with CSS Grid which is still acting strange and skipping the first cell...
+
+### R0D24
+Added a hero image to my portfolio page, changed some colors around. Tweak tweak tweak.
