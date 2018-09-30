@@ -78,3 +78,6 @@ Resized thumbnail images, and added them into cards. Messed with CSS Grid which 
 
 ### R0D25
 Added a hero image to my portfolio page, changed some colors around. Tweak tweak tweak.
+
+### R0D26
+More portfolio page tweaking, changing taglines and backgrounds.
