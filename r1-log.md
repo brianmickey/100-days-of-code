@@ -81,3 +81,6 @@ Added a hero image to my portfolio page, changed some colors around. Tweak tweak
 
 ### R0D26
 More portfolio page tweaking, changing taglines and backgrounds.
+
+### R0D27
+Added a section to my portfolio page for technologies I know, and I am hoping to beef that up as time goes on!
