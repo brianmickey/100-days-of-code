@@ -84,3 +84,6 @@ More portfolio page tweaking, changing taglines and backgrounds.
 
 ### R0D27
 Added a section to my portfolio page for technologies I know, and I am hoping to beef that up as time goes on!
+
+### R0D28
+Added a title header for my projects on my portfolio page, and submitted it. Realized that I need to fix up my media query(s) after the fact. Some more tinkering and reviewing, then on to JavaScript.
