@@ -87,3 +87,6 @@ Added a section to my portfolio page for technologies I know, and I am hoping to
 
 ### R0D28
 Added a title header for my projects on my portfolio page, and submitted it. Realized that I need to fix up my media query(s) after the fact. Some more tinkering and reviewing, then on to JavaScript.
+
+### R0D29
+Worked on my media query, some things are working as I want, but not others.
