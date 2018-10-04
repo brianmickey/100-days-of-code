@@ -90,3 +90,6 @@ Added a title header for my projects on my portfolio page, and submitted it. Rea
 
 ### R0D29
 Worked on my media query, some things are working as I want, but not others.
+
+### R0D30
+Started "JavaScript: Understanding the Weird Parts" on Udemy, and so far it is great.
