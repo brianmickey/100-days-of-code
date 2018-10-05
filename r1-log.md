@@ -93,3 +93,6 @@ Worked on my media query, some things are working as I want, but not others.
 
 ### R0D30
 Started "JavaScript: Understanding the Weird Parts" on Udemy, and so far it is great.
+
+### R0D31
+Digging in to JavaScript and enjoying it! Having something explained well makes it so much easier to learn than trying to piece it all together yourself.
