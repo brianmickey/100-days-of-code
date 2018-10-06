@@ -97,5 +97,5 @@ Started "JavaScript: Understanding the Weird Parts" on Udemy, and so far it is g
 ### R0D31
 Digging in to JavaScript and enjoying it! Having something explained well makes it so much easier to learn than trying to piece it all together yourself.
 
-### R0D31
+### R0D32
 More "JavaScript: Understanding the Weird Parts" learning about coercion and strict equality, good stuff-cool to understand.
