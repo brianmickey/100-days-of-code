@@ -99,3 +99,6 @@ Digging in to JavaScript and enjoying it! Having something explained well makes 
 
 ### R0D32
 More "JavaScript: Understanding the Weird Parts" learning about coercion and strict equality, good stuff-cool to understand.
+
+### R0D33
+More JavaScript. If you asked me before today, I would have said "stringify" was not an actual word.
