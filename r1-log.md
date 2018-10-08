@@ -102,3 +102,6 @@ More "JavaScript: Understanding the Weird Parts" learning about coercion and str
 
 ### R0D33
 More JavaScript. If you asked me before today, I would have said "stringify" was not an actual word.
+
+### R0D34
+More JavaScript...This is going to be a trend.
