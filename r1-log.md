@@ -105,3 +105,7 @@ More JavaScript. If you asked me before today, I would have said "stringify" was
 
 ### R0D34
 More JavaScript...This is going to be a trend.
+
+### R0D35
+More JavaScript with videos by @pizzapokerguy.
+
