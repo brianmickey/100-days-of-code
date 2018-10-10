@@ -109,3 +109,5 @@ More JavaScript...This is going to be a trend.
 ### R0D35
 More JavaScript with videos by @pizzapokerguy.
 
+### R0D36
+More JavaScript: by value vs by reference, 'this', IIFEs...
