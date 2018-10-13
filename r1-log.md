@@ -111,3 +111,6 @@ More JavaScript with videos by @pizzapokerguy.
 
 ### R0D36
 More JavaScript: by value vs by reference, 'this', IIFEs...
+
+### R0D37
+More JavaScript: Closures.
